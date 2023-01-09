@@ -10,7 +10,7 @@ int main(){
         for(int i = length-1; i >= 0; i--){
             if(array[i] == ' '){
                 for(int j = i+1; array[j] != ' ' && array[j] != 0;j++){
-                    printf("%c", array[j]);;
+                    printf("%c", array[j]);
                 }
                 printf(" ");
             }
