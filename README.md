@@ -97,3 +97,6 @@
     
 33. 檔名: C_MM09.c
     - 題目: [C_MM09-易] 計算 i 次方的值 https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?a=2921
+
+34. 檔名: C_MM10.c
+    - 題目: [C_MM10-易] 攝氏溫度轉華式溫度 https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6882
